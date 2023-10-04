@@ -1,0 +1,5 @@
+name: HydraniumAPI
+version: 1.0
+author: Adrackiin
+main: fr.adrackiin.hydranium.api.APICore
+depend: [HydraniumLibrairies]
